@@ -1,1 +1,24 @@
-# 000128-AWS-General-Workshop-basic-2 Workshop
+# 📚 AWS General Workshop Basic 2
+
+AWS fundamentals — advanced services and architectures.
+
+## Overview
+
+This is a hands-on workshop from the **AWS First Cloud Journey** series.
+
+## Workshop
+
+📖 **[Start the workshop](https://vanhoangkha.github.io/000128-AWS-General-Workshop-basic-2/)**
+
+## Prerequisites
+
+- An AWS account
+- Basic understanding of cloud computing concepts
+
+## Author
+
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
