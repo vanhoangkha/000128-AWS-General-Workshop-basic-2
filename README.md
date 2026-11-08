@@ -1,4 +1,4 @@
-# 📚 AWS General Workshop Basic 2
+# AWS General Workshop Basic 2
 
 AWS fundamentals — advanced services and architectures.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000128-AWS-General-Workshop-basic-2/)**
+**[Start the workshop](https://vanhoangkha.github.io/000128-AWS-General-Workshop-basic-2/)**
 
 ## Prerequisites
 
